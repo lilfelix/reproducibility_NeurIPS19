@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Data
+data/
+
+# Felix's environment
+.DS_Store
+*.un~
+.vscode/
+UCRArchive_2018
+Multivariate_ts
+household_power_consumption
+MOCK_household_power_consumption
+IHEPC_models
+features
+*.tar.gz
+
+# Moein
+*.idea
+__pycache__*
+results/tmp.csv
